@@ -1,4 +1,4 @@
-name: guide-tips S3 Deploy
+name: Guide Tips S3 Deploy
 on:
   push:
     branches:
